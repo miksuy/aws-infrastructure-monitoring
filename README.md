@@ -45,12 +45,12 @@ The infrastructure is deployed in the AWS Europe (Stockholm) region (`eu-north-1
 
 ## Technologies
 
-- Amazon Web Services (AWS)
+- Amazon Web Services
 - Terraform
 - Amazon EC2
 - Amazon CloudWatch
 - Amazon SNS
-- Ubuntu Server 24.04 LTS
+- Ubuntu Server
 - Git and GitHub
 
 ## Deployment
