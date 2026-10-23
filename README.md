@@ -125,3 +125,29 @@ Review the proposed deletions before confirming.
 **Completed.**
 
 The EC2 instance, CloudWatch alarm, SNS email subscription, and CloudWatch dashboard were deployed successfully. The alarm notification workflow was tested successfully.
+
+## Screenshots
+
+### CloudWatch Dashboard
+
+![CloudWatch dashboard](screenshots/cloudwatchdashboard.jpg)
+
+*The CloudWatch dashboard.*
+
+### CloudWatch Alarm
+
+![CloudWatch alarm](screenshots/cloudwatchalarm.jpg)
+
+*The CloudWatch alarm.*
+
+### SNS Email Alert
+
+![SNS email alert](screenshots/snsnotificationtest.jpg)
+
+*Notification received during testing where the alarm was temporarily lowered to verify CloudWatch could trigger an alert and deliver it through SNS.*
+
+### Running EC2 Instance
+
+![Running EC2 instance](screenshots/ec2instance.jpg)
+
+*Running EC2 instance.*
